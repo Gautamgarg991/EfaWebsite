@@ -1,0 +1,11 @@
+@media only screen and (max-width: 730px)  and (min-width : 600px) {
+  .MainLine{
+    margin-top: 100px;
+    margin-right:250px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .MainLine{
+    margin-top: 190px;
+  }
+}
