@@ -23,5 +23,9 @@
 .details{
   float: right;
   margin: 40px 60px 0 0;
-
+}
+@media only screen and (max-width: 450px) {
+  .sir{
+    margin-top: 60px;
+  }
 }
