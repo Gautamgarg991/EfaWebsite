@@ -1,0 +1,38 @@
+.result {
+  height: 500px;
+  width: 50px;
+}
+.res-head{
+  width: 70%;
+  font-family: sans-serif;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 190px;
+}
+p{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.carousel-inner {
+  margin-top: 40px;
+}
+
+@media only screen and (max-width: 990px) {
+  h1{
+    margin-bottom: 60px;
+    font-weight: bold;
+  }
+  p{
+    font-weight: bold;
+  }
+  .res-head{
+    margin-top: 70px;
+    margin-bottom: 280px;
+  }
+
+  .result {
+    height: 710px;
+    width: 50px;
+  }
+}
